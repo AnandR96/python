@@ -1,2 +1,2 @@
-# python
+# python_basics
 from_codekatta_problems
